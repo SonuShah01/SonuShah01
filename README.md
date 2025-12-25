@@ -18,7 +18,8 @@
 
 <td>
 
-<img src="https://i.imgur.com/9bqf9yZ.png" width="400px"/>
+<img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dc.gif" width="400px"/>
+
 
 </td>
 </tr>
@@ -32,8 +33,6 @@
 <a href="https://github.com/SonuShah01" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="40"/></a>
 
 ---
-
-## 🛠️ Languages and Tools:
 
 ## 🛠 Languages and Tools:
 
