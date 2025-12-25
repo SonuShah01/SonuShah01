@@ -1,18 +1,58 @@
-- Hi,👋 I’m Sonu Kumar Sah
+<h1 align="center">Hi 👋, I'm Sonu Kumar Sah</h1>
 
-  I am human who love technology , nature and camera 📷.
-  sonu
+<h3 align="center">A passionate Full Stack Developer </h3>
 
-🔭 I’m currently working on MERN stack
+<br/>
 
-🌱 I’m currently learning Cloud Services
+<div align="center">
+<table>
+<tr>
+<td>
 
-💬 Ask me about React, MongoDB, JAVA Etc.
+- 👨‍💻 **Portfolio** –
+- 💬 Ask me about  
+  **MERN (MongoDB | ExpressJS | ReactJS | NodeJS)**
+- ✉️ **Contact Me** – sonukr.shah2072@gmail.com
 
-📫 How to reach me sonukr.shah2072@gmail.com
+</td>
 
-⚡ Fun fact I love capturing memories 📷
+<td>
 
-🌐 Socials:
-Instagram LinkedIn X
+<img src="https://i.imgur.com/9bqf9yZ.png" width="400px"/>
+
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+### Connect with me:
+<a href="https://www.linkedin.com/in/sonu-kumar-sah-7972962aa/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40"/></a>
+<a href="https://github.com/SonuShah01" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="40"/></a>
+
+---
+
+## 🛠️ Languages and Tools:
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="45"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
+
 
