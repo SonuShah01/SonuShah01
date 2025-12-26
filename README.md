@@ -10,7 +10,7 @@
 <td>
 
 - 👨‍💻 **Portfolio** –
-- 
+  
 - 💬 Ask me about  
   **MERN (MongoDB | ExpressJS | ReactJS | NodeJS)**
   
@@ -20,7 +20,7 @@
 
 <td>
 
-<img src="https://share.google/yiUh1GufaDFgmkGeJ" width="420"/>
+<img src="https://backiee.com/wallpaper/techsavvy-anime-programmers-haven/286745" width="420"/>
 
 
 
