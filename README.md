@@ -10,15 +10,17 @@
 <td>
 
 - 👨‍💻 **Portfolio** –
+- 
 - 💬 Ask me about  
   **MERN (MongoDB | ExpressJS | ReactJS | NodeJS)**
+  
 - ✉️ **Contact Me** – sonukr.shah2072@gmail.com
 
 </td>
 
 <td>
 
-<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="420"/>
+<img src="https://share.google/yiUh1GufaDFgmkGeJ" width="420"/>
 
 
 
