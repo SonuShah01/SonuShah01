@@ -9,7 +9,7 @@
 <tr>
 <td>
 
-- 👨‍💻 **Portfolio** – (my-portfolio-pink-nine-84.vercel.app)
+- 👨‍💻 **Portfolio** – (https://my-portfolio-pink-nine-84.vercel.app/)
   
 - 💬 Ask me about  
   **MERN (MongoDB | ExpressJS | ReactJS | NodeJS)**
